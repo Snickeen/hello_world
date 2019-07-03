@@ -4,7 +4,7 @@
 
 
 
-git add
+git add . // There is a dot. 
 git commit -m "upload test2"
 
 git push 
