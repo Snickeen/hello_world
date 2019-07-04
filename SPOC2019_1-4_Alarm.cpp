@@ -13,7 +13,7 @@ struct Line{
 		cin >> x >> y;
 	}
 	bool on_the_right(LL x1, LL y1) {
-		//叉积看是否在p0_p1右侧
+		//鍙夌Н鐪嬫槸鍚﹀湪p0_p1鍙充晶
 		return((-x * y1) - (y * (x1 - x))) <= 0;
 	}
 	friend LL bin_search(LL lo, LL hi);
