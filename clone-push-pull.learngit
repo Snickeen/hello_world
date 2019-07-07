@@ -3,3 +3,18 @@ clone
 pull
 push
 
+clone somerepo.git
+cd repo
+
+// balabala 
+
+git add file.name
+git commit -m "一些修改的注释说明"
+git push 
+
+
+git add . 
+git commit -m "balabala"
+git push 
+
+
