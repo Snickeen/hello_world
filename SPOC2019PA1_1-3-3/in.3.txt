@@ -1,0 +1,67 @@
+v
+65
+> R
+I R w
+S
+S
+I L s
+R
+> R
+I L q
+> R
+< R
+R
+< R
+< R
+S
+D L
+S
+I L a
+S
+S
+I R r
+S
+> L
+< R
+> L
+> L
+R
+D L
+> R
+D R
+S
+< R
+< R
+S
+> R
+> L
+D L
+> L
+> L
+S
+S
+> L
+S
+I L u
+I R n
+S
+R
+S
+> L
+< L
+< L
+R
+< L
+> R
+S
+R
+< L
+I R g
+D L
+D L
+> R
+I R h
+< L
+R
+S
+S

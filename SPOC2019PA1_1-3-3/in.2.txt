@@ -1,0 +1,53 @@
+H
+51
+> L
+R
+> L
+R
+S
+S
+> R
+< R
+D L
+< L
+I L i
+< L
+I L t
+> R
+R
+< L
+> L
+R
+I R x
+I L w
+< L
+R
+I R f
+< L
+R
+I L o
+S
+R
+I L d
+> L
+< R
+< R
+I R u
+> R
+< L
+< L
+I L t
+I R o
+R
+R
+> L
+> L
+> R
+> L
+D L
+R
+D R
+> L
+> L
+R
+S
